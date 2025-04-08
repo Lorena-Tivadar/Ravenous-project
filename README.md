@@ -1,1 +1,2 @@
-# Ravenous-project
+Modificările tale locale
+Modificările din GitHub
